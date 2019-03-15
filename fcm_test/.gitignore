@@ -3,4 +3,4 @@ node_modules
 
 //ignore my key
 firebase_key.json
-old_key.json
+old_config.json
