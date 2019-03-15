@@ -10,6 +10,7 @@
   "author": "Zukey",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^5.9.0",
     "firebase-admin": "^7.0.0",
     "request": "^2.88.0"
   }
